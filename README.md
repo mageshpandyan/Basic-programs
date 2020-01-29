@@ -19,3 +19,6 @@ https://github.com/mageshpandyan/Basic-programs/blob/master/Return%20two%20Prime
 
 4) Squares a given number without the math function.
 https://github.com/mageshpandyan/Basic-programs/blob/master/SquareOfNumber.cpp
+
+5) Prints numbers in vertical order with n rows and columns.
+https://github.com/mageshpandyan/Basic-programs/blob/master/PrintsNumbersInOrder.cpp
