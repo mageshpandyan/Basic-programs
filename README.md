@@ -10,3 +10,4 @@ https://github.com/mageshpandyan/Basic-programs/blob/master/String%20Reversal%20
 https://github.com/mageshpandyan/Basic-programs/blob/master/String%20reversal%20v2
 
 3) Returns two prime numbers that are sum of the given number.
+https://github.com/mageshpandyan/Basic-programs/blob/master/Return%20two%20Prime%20numbers.cpp
