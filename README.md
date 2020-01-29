@@ -8,3 +8,5 @@ https://github.com/mageshpandyan/Basic-programs/blob/master/String%20Reversal%20
 
 2) Same as (1) modified with function and better application overall.
 https://github.com/mageshpandyan/Basic-programs/blob/master/String%20reversal%20v2
+
+3) Returns two prime numbers that are sum of the given number.
