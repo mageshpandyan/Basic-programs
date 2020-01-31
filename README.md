@@ -22,3 +22,6 @@ https://github.com/mageshpandyan/Basic-programs/blob/master/SquareOfNumber.cpp
 
 5) Prints numbers in vertical order with n rows and columns.
 https://github.com/mageshpandyan/Basic-programs/blob/master/PrintsNumbersInOrder.cpp
+
+6) Reduces three stacks till they're equal at their maximum possible height.
+https://github.com/mageshpandyan/Basic-programs/blob/master/StackEqual.cpp
