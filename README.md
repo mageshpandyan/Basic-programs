@@ -25,3 +25,6 @@ https://github.com/mageshpandyan/Basic-programs/blob/master/PrintsNumbersInOrder
 
 6) Reduces three stacks till they're equal at their maximum possible height.
 https://github.com/mageshpandyan/Basic-programs/blob/master/StackEqual.cpp
+
+7) Checks if given two integers are an Amicable pair.
+https://github.com/mageshpandyan/Basic-programs/blob/master/AmicableNumbers.cpp
