@@ -28,3 +28,6 @@ https://github.com/mageshpandyan/Basic-programs/blob/master/StackEqual.cpp
 
 7) Checks if given two integers are an Amicable pair.
 https://github.com/mageshpandyan/Basic-programs/blob/master/AmicableNumbers.cpp
+
+8) Checks if given number is an Armstrong number.
+https://github.com/mageshpandyan/Basic-programs/blob/master/Armstrong%20Number.cpp
